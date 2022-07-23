@@ -10,16 +10,16 @@ LICENSE: [MIT](./license.md)
 
 ### <p align = "right"><span style="color:#8FB">Содержание:</span></p>
 
-1. О GIT
-2. Установка и настройка
-3. Файл .gitignore
-4. Основные операции
-5. Коммиты
-6. Удалённый репозиторий
-7. Ветвление 
-   1. Методологии ветвления
-   2. Конфликты
-8. Дополнительно
+1. [О GIT](about.md)
+2. [Установка и настройка](installation%26settings.md)
+3. [Файл .gitignore](gitignore.md)
+4. [Основные операции](basic%20cmd.md)
+5. [Коммиты](commits.md)
+6. [Удалённый репозиторий](remote%20repository.md)
+7. [Ветвление](branches.md)
+   1. [Методологии ветвления](br%20methodology.md)
+   2. [Конфликты](br%20conflicts.md)
+8. [Дополнительно](additional%20info.md)
 
 
 
