@@ -7,7 +7,8 @@ LICENSE: [MIT](./license.md)
 ##### Git Logo by Jason Long https://git-scm.com/downloads/logos, license: [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/)
 
 ---
-### <p align = "right"><span style="color:#8FB">__Содержание:__</p>
+
+### <p align = "right"><span style="color:#8FB">Содержание:</span></p>
 
 1. О GIT
 2. Установка и настройка
