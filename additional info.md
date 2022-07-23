@@ -15,4 +15,4 @@
 Список клиентов с графическим интерфейсом – [тут](https://www.git-scm.com/downloads/guis).
 Онлайн утилита для генерации .gitignore файлов – [тут](https://www.toptal.com/developers/gitignore).
 
-__<p align = "right">Успехов в работе! :heart_pulse:</p>__ 
+__<p align = "right">Успехов в работе! :heartpulse:</p>__ 
